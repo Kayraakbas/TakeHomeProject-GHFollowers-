@@ -18,6 +18,10 @@ class CFFollowerItemVC: CFItemInfoVC {
     func configureItems() {
         itemInfoView1.set(itemInfoType: .followers, count: user.followers)
         itemInfoView2.set(itemInfoType: .following, count: user.following)
-        actionButon.set(backgroundColor: .systemGreen, title: "Followers")
+        actionButon.set(backgroundColor: .systemGreen, title: "Get Followers")
+    }
+    
+    override func actionButtonTapped() {
+        delegate.didtapGetFollowers(for: user)
     }
 }

@@ -18,11 +18,10 @@ class CFButton: UIButton {
         fatalError("init(coder:) has not been implemented")
     }
     
-    init (backgroundColor: UIColor , title: String){
-        super.init(frame: .zero)
+    convenience init (backgroundColor: UIColor , title: String){
+        self.init(frame: .zero)
         self.backgroundColor = backgroundColor
         self.setTitle(title, for: .normal)
-        configure()
     }
     
     private func configure (){
@@ -30,6 +29,13 @@ class CFButton: UIButton {
         layer.cornerRadius = 10
         titleLabel?.textColor = .white
         titleLabel?.font = UIFont.preferredFont(forTextStyle: .headline)
-        translatesAutoresizingMaskIntoConstraints = false
+    }
+    
+    
+    
+    func set(backgroundColor: UIColor, title: String){
+        
+        self.backgroundColor = backgroundColor
+        setTitle(title, for: .normal)
     }
 }
