@@ -8,7 +8,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "9413BA66-C4EE-4E88-A2C2-1948E4A4AC0D"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Screens/UserInfoVC.swift"
@@ -24,7 +24,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "233CF6CA-3D48-4B3D-ABB4-0BCD5B577343"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Screens/UserInfoVC.swift"
@@ -40,7 +40,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "45A88E39-4A23-48D9-80A7-5308C223EB25"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Custom Views /Views/CFAlertView.swift"
@@ -56,7 +56,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "FA0817C5-0627-4AF6-B782-251CFFF3B9D8"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Custom Views /Views/CFAlertView.swift"
@@ -72,7 +72,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Screens/FavoritesListVC.swift"
@@ -84,70 +84,70 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - 2477f030563ec2fd"
+                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - fe2a66db55599be7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.FavoritesListVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TakeHomeProject.FavoritesListVC"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Screens/FavoritesListVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Screens/FavoritesListVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0">
                </Location>
                <Location
-                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - c7a862c5d2cde4ca"
+                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - 1df5f42ed1aabff0"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.FavoritesListVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TakeHomeProject.FavoritesListVC"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Screens/FavoritesListVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Screens/FavoritesListVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "12"
                   endingLineNumber = "12">
                </Location>
                <Location
-                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - a37d7c2473c97a32"
+                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - 7920eacf70ae2328"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.FavoritesListVC.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TakeHomeProject.FavoritesListVC&gt;"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Screens/FavoritesListVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Screens/FavoritesListVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0">
                </Location>
                <Location
-                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - e459814df5766cd5"
+                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - 3e0417a6f61137ef"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.FavoritesListVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TakeHomeProject.FavoritesListVC&gt;"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Screens/FavoritesListVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Screens/FavoritesListVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "12"
                   endingLineNumber = "12">
                </Location>
                <Location
-                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - 97c247ed4d86c9ad"
+                  uuid = "89B1B46D-37CC-4DFB-8E7B-7E92AF833C48 - 4d9fd1064ee190b7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.FavoritesListVC.__deallocating_deinit"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Screens/FavoritesListVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Screens/FavoritesListVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -160,7 +160,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "782F8244-1C71-405C-95CE-A49C3BF6ED1D"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Screens/FollowerListVC.swift"
@@ -176,7 +176,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "DD458819-993A-466E-BCB2-A8B102216080"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Custom Views /ViewControllers/CFAlertVC.swift"
@@ -188,42 +188,42 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  uuid = "DD458819-993A-466E-BCB2-A8B102216080 - 973a5fbaabb12b43"
+                  uuid = "DD458819-993A-466E-BCB2-A8B102216080 - baf3329958b4e442"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.CFAlertVC.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TakeHomeProject.CFAlertVC"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Custom%20Views%20/ViewControllers/CFAlertVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Custom%20Views%20/ViewControllers/CFAlertVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
                   endingLineNumber = "0">
                </Location>
                <Location
-                  uuid = "DD458819-993A-466E-BCB2-A8B102216080 - 632f1b6c78a65daa"
+                  uuid = "DD458819-993A-466E-BCB2-A8B102216080 - 4ee6764f8ba394ab"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.CFAlertVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TakeHomeProject.CFAlertVC"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Custom%20Views%20/ViewControllers/CFAlertVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Custom%20Views%20/ViewControllers/CFAlertVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "10"
                   endingLineNumber = "10">
                </Location>
                <Location
-                  uuid = "DD458819-993A-466E-BCB2-A8B102216080 - 27dda2edf1875dd2"
+                  uuid = "DD458819-993A-466E-BCB2-A8B102216080 - a14cfce028292d3"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "TakeHomeProject.CFAlertVC.__deallocating_deinit"
                   moduleName = "TakeHomeProject.debug.dylib"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject/TakeHomeProject/Custom%20Views%20/ViewControllers/CFAlertVC.swift"
+                  urlString = "file:///Users/kayraakbas/Desktop/TakeHomeProject-GHFollowers-/TakeHomeProject/Custom%20Views%20/ViewControllers/CFAlertVC.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "0"
@@ -236,7 +236,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "5658B950-7D72-4DAA-BA98-A44874ECBBA8"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TakeHomeProject/Custom Views /ViewControllers/CFAlertVC.swift"
